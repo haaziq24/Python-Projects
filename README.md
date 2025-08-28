@@ -1,4 +1,4 @@
-# Python Projects – Hello World
+#Hello World
 
 This repository contains my very first Python program, created to test my setup with **VS Code**, **Git**, and **GitHub**.
 
